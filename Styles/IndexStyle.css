@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(6, 61, 113);
+}
+
+.main-navigation #nav ul {
+  display: inline-flex;
+}
