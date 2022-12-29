@@ -1,0 +1,1 @@
+The Client Section of the web server contains the front end, so javascript, html, css.

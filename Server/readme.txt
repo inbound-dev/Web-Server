@@ -1,0 +1,1 @@
+The Server or "backend" contains the databases, web apps, and hosting resources etc. (C#, Python, Java, PHP)
